@@ -8,7 +8,7 @@ Budget Tracker is a progressive web application on module 19 that allows users t
  
  https://secure-dusk-74897.herokuapp.com/
  
- ###license 
+ ### license 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
